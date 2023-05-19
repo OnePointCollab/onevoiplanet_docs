@@ -51,10 +51,7 @@ jobs:
             playbook: deployment.yml
             directory: ./deployment
             key: ${{secrets.SSH_PRIVATE_KEY}}
-            inventory: |
-              [all]
-              64.176.67.131
-            known_hosts: |
-              64.176.67.131 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI7BiV+Kxsu9QQ2e7XcakiuVY5t2SogwKmu7wEUaoo5SkEdFLRJmR8U9xWvX4fxHyTiYCFDY4meXycm7VnsQsyg=
+            inventory: ${{secrets.INVENTORY}}
+            known_hosts: ${{KNOW_HOSTS}}
             vault_password: ${{secrets.ANSIBLE_VAULET}}
             requirements: requirements.yml

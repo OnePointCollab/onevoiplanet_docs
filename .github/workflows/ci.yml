@@ -52,6 +52,6 @@ jobs:
             directory: ./deployment
             key: ${{secrets.SSH_PRIVATE_KEY}}
             inventory: ${{secrets.INVENTORY}}
-            known_hosts: ${{KNOW_HOSTS}}
+            known_hosts: ${{secrets.KNOW_HOSTS}}
             vault_password: ${{secrets.ANSIBLE_VAULET}}
             requirements: requirements.yml

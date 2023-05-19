@@ -40,7 +40,6 @@ jobs:
 
   deploy:
       name: Deploy image to server
-      env:
       runs-on: ubuntu-latest
       needs: ['build']
       steps:

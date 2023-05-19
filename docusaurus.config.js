@@ -10,13 +10,13 @@ const config = {
   // tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
-  url: 'https://docs.ocplanet.cloud/',
+  url: 'https://docs.onevoiplanet.ua/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'onecloudplanet', // Usually your GitHub org/user name.
+  organizationName: 'onevoiplanet', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,17 +25,17 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ua'],
+    locales: ['en','ua'],
     localeConfigs: {
-      en: {
-        label:'English',
-        direction: 'ltr',
-        path:'en'
-      },
       ua:{
         label:'Українська',
         direction: 'ltr',
         path:'ua'
+      },
+      en:{
+        label:'en',
+        direction: 'ltr',
+        path:'en'
       }
     }
   },
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({versionDocsDirPath, docPath}) =>
-            `https://github.com/OnePointCollab/onecloudplanet_docs/edit/main/${versionDocsDirPath}/${docPath}`,
+            `https://github.com/OnePointCollab/onevoiplanet_docs/edit/main/${versionDocsDirPath}/${docPath}`,
         },
 
         
@@ -72,9 +72,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         algolia: {
-          appId: 'O02PSVESHZ',
-          apiKey: '3f61da548f823e3d2e4b9e90d7a0cfda',
-          indexName: 'docs.ocplanet.cloud',
+          appId: 'VK7408PK3X',
+          apiKey: 'daaaff85e0e24badba0fe2aee2a46aa9',
+          indexName: 'onevoiplanet',
           contextualSearch: true,
           // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
           // externalUrlRegex: 'https://docs.ocplanet.cloud',
@@ -97,9 +97,9 @@ const config = {
         },
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-          title: 'OneCloudPlanet',
+          title: 'onevoiplanet',
           logo: {
-            alt: 'OneCloudPlanet',
+            alt: 'onevoiplanet',
             src: 'img/logo.svg',
           },
           
@@ -115,10 +115,10 @@ const config = {
               type: 'search',
               position: 'right',
             },
-            {
-              type: 'localeDropdown',
-              position: 'right',
-            },
+            // {
+            //   type: 'localeDropdown',
+            //   position: 'right',
+            // },
             // {to: '/documentation', label: 'Documentation', position: 'left'},
             // {
             //   href: 'https://github.com/facebook/docusaurus',
@@ -129,7 +129,7 @@ const config = {
         },
         footer: {
           style: 'dark',
-          copyright: `Copyright © ${new Date().getFullYear()} OneCloudPlanet. Documentation for users`,
+          copyright: `Copyright © ${new Date().getFullYear()} onevoiplanet. Documentation for users`,
         },
         prism: {
           theme: lightCodeTheme,

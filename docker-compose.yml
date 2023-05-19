@@ -12,6 +12,6 @@ services:
     #   - .:/usr/src/app
     #   - /usr/src/app/node_modules
     ports:
-      - '3000:80'
-    env_file:
-      - .env
+      - '3005:3005'
+#    env_file:
+#      - .env

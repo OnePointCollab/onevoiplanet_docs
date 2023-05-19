@@ -38,23 +38,23 @@ jobs:
 
 
 
-#  deploy:
-#      name: Deploy image to server
-#      runs-on: ubuntu-latest
-#      needs: ['build']
-#      steps:
-#        - name: Checkout Code
-#          uses: actions/checkout@v1
-#        - name: Run playbook
-#          uses: dawidd6/action-ansible-playbook@v2
-#          with:
-#            playbook: deployment.yml
-#            directory: ./deployment
-#            key: ${{secrets.SSH_PRIVATE_KEY}}
-#            inventory: |
-#              [all]
-#              2.59.221.40
-#            known_hosts: |
-#              2.59.221.40 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHhGYxIYuCxPu81Si1nyxlkv7eSoN5mCu+f6EQCPdQjJPloARWUDOxzebllLPyZyIwXcQCaVMSS6vebmY9a2VUs=
-#            vault_password: ${{secrets.ANSIBLE_VAULET}}
-#            requirements: requirements.yml
+  deploy:
+      name: Deploy image to server
+      runs-on: ubuntu-latest
+      needs: ['build']
+      steps:
+        - name: Checkout Code
+          uses: actions/checkout@v1
+        - name: Run playbook
+          uses: dawidd6/action-ansible-playbook@v2
+          with:
+            playbook: deployment.yml
+            directory: ./deployment
+            key: ${{secrets.SSH_PRIVATE_KEY}}
+            inventory: |
+              [all]
+              ${{secrets.SSH_HOST}}
+            known_hosts: |
+              ${{secrets.SSH_HOST}} ${{secrets.KNOW_HOSTS}}
+            vault_password: ${{secrets.ANSIBLE_VAULET}}
+            requirements: requirements.yml

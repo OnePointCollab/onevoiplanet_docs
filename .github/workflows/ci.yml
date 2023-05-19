@@ -1,4 +1,4 @@
-name: Ansible Deployment
+name: Deployment docs.onevoiplanet.ua
 on:
   push:
     branches:

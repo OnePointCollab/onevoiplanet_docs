@@ -1,4 +1,4 @@
-name: Deployment docs.onevoiplanet.ua
+name: Deployment Ansible
 on:
   push:
     branches:
@@ -55,10 +55,3 @@ jobs:
             known_hosts: ${{secrets.KNOW_HOSTS}}
             vault_password: ${{secrets.ANSIBLE_VAULET}}
             requirements: requirements.yml
-        - name: Send job status to telegram
-          uses: yanzay/notify-telegram@v0.1.0
-          if: always()
-          with:
-            chat: ${{ secrets.TG_CHANNEL }}
-            token: ${{ secrets.TG_TOKEN }}
-            status: ${{ job.status }} # do not modify this line

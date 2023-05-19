@@ -60,8 +60,8 @@ jobs:
           env:
             GITHUB_CONTEXT: ${{ toJSON(github) }}
           with:
-            to: ${{ secrets.TELEGRAM_ID }}
-            token: ${{ secrets.TELEGRAM_TOKEN }}
+            to: ${{ secrets.TG_CHANNEL }}
+            token: ${{ secrets.TG_TOKEN }}
             format: markdown
             message: |
               *1st line of your message with bold*

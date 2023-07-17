@@ -33,7 +33,7 @@ const config = {
         path:'ua'
       },
       en:{
-        label:'en',
+        label:'English',
         direction: 'ltr',
         path:'en'
       }
@@ -115,10 +115,10 @@ const config = {
               type: 'search',
               position: 'right',
             },
-            // {
-            //   type: 'localeDropdown',
-            //   position: 'right',
-            // },
+            {
+              type: 'localeDropdown',
+              position: 'right',
+            },
             // {to: '/documentation', label: 'Documentation', position: 'left'},
             // {
             //   href: 'https://github.com/facebook/docusaurus',

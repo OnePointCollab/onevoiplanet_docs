@@ -1,11 +1,11 @@
 ---
 slug: /
 sidebar_position: 1
-title: Welcome
-sidebar_label: Welcome
+title: Привітання
+sidebar_label: Привітання
 ---
 
-# Welcome to the OneCloudPlanet User Guide!
+# Привітання
 
 This user guide contains functional documentation for all features available in the OneCloudPlanet cloud platform control panel.
 

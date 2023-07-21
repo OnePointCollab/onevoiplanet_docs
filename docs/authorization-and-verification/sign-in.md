@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Вхід в особистий кабінет
 
-ЕЯкщо Ви вже є клієнтом OneVOIPlanet, перейдіть [за посиланням](https://cabinet.onevoiplanet.com/auth) для того, щоб авторизуватися в системі.
+Якщо Ви вже є клієнтом OneVOIPlanet, перейдіть [за посиланням](https://cabinet.onevoiplanet.com/auth) для того, щоб авторизуватися в системі.
 
 Якщо у Вас немає облікового запису в особистому кабінеті, Ви можете самостійно зареєструватися (https://cabinet.onevoiplanet.com/registration).
 

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OneCloudPlanet\'s Documentation',
+  title: 'OneVOIPlanet\'s Documentation',
   // tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   // Set the production url of your site here
@@ -16,29 +16,29 @@ const config = {
   baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'onevoiplanet', // Usually your GitHub org/user name.
+  organizationName: 'OneVOIPlanet', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en','ua'],
-    localeConfigs: {
-      ua:{
-        label:'Українська',
-        direction: 'ltr',
-        path:'ua'
-      },
-      en:{
-        label:'English',
-        direction: 'ltr',
-        path:'en'
-      }
-    }
-  },
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en','ua'],
+  //   localeConfigs: {
+  //     ua:{
+  //       label:'Українська',
+  //       direction: 'ltr',
+  //       path:'ua'
+  //     },
+  //     en:{
+  //       label:'English',
+  //       direction: 'ltr',
+  //       path:'en'
+  //     }
+  //   }
+  // },
   presets: [
     [
       'classic',
@@ -97,7 +97,7 @@ const config = {
         },
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-          title: 'onevoiplanet',
+          title: 'OneVOIPlanet',
           logo: {
             alt: 'onevoiplanet',
             src: 'img/logo.svg',
@@ -115,10 +115,10 @@ const config = {
               type: 'search',
               position: 'right',
             },
-            {
-              type: 'localeDropdown',
-              position: 'right',
-            },
+            // {
+            //   type: 'localeDropdown',
+            //   position: 'right',
+            // },
             // {to: '/documentation', label: 'Documentation', position: 'left'},
             // {
             //   href: 'https://github.com/facebook/docusaurus',
@@ -129,7 +129,7 @@ const config = {
         },
         footer: {
           style: 'dark',
-          copyright: `Copyright © ${new Date().getFullYear()} onevoiplanet. Documentation for users`,
+          copyright: `Copyright © ${new Date().getFullYear()} OneVOIPlanet. Документація для користувачів`,
         },
         prism: {
           theme: lightCodeTheme,

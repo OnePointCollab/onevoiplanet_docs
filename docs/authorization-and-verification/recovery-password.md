@@ -1,15 +1,19 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Відновлення пароля
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Якщо Ви забули пароль, натисніть на сторінці [авторизації в особистий кабінет](https://cabinet.onevoiplanet.com/auth) "[**Забули пароль?**](https://cabinet.onevoiplanet.com/auth/forgot-password)". Перед Вами відкриється сторінка для відновлення пароля.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+![](../img/authorization/i-sign-in2.svg)
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+На цій сторінці, необхідно ввести Ваш E-mail, а потім натисніть "**Відновити пароль**", після чого на Вашу електронну адресу прийде інструкція щодо зміни пароля, за якою Ви зможете встановити новий пароль;
 
-4. Click **Create a Ticket**.
+![](../img/authorization/i-sign-in4.svg)
 
-5. After reviewing your request, we will delete your account.
+Посилання дійсне протягом 24 годин. Пароль за посиланням можна поміняти лише один раз. За потреби за посиланням відкрийте сторінку, щоб знайти новий пароль.
+
+![](../img/authorization/i-sign-in5.svg)
+
+Вкажіть новий пароль відповідно до принципу надійності. Після заповнення полів натисніть "**Змінити пароль**".

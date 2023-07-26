@@ -4,12 +4,22 @@ sidebar_position: 1
 
 # Створення співробітника
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Співробітників можна додавати до груп, прикріплювати направлення на голосове меню, здійснювати дзвінки з цього співробітника.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Кожен співробітник має власну внутрішню SIP лінію.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+У кожному тарифі є обмеження на кількість доданих співробітників.
 
-4. Click **Create a Ticket**.
+[Детальніше ознайомитися з тарифами →](https://onevoiplanet.ua/ua/plans)
 
-5. After reviewing your request, we will delete your account.
+![](../../img/authorization/line.svg)
+
+Як створити співробітника?
+
+1. Нажміть **Співробітники**
+
+2. Перейдіть до **Усі співробітники компанії**
+
+3. Нажміть **Створити співробітника**
+
+Создание сотрудника разделено на два этапа - **Дані співробітника** та **Налаштування облікового запису SIP**

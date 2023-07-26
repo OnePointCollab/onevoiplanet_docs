@@ -4,12 +4,15 @@ sidebar_position: 4
 
 # Ролі
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+| Ролі                   | Опис           |
+|------------------------|----------------|
+| Адміністратор          | Має доступ до всього функціонала хмарної АТС. |
+| Супервізор             | Має доступ до всього функціоналу, крім управління фінансами та зміна тарифу. |
+| Бухгалтер              | Має доступ до управління фінансами та зміни тарифу. |
+| Оператор               | Має доступ лише до свого журналу дзвінків.        |
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Крім особистих прав є спільні доступні права.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+Кожен співробітник може здійснювати та приймати дзвінки з призначеного на цього співробітника номера.
 
-4. Click **Create a Ticket**.
-
-5. After reviewing your request, we will delete your account.
+Контакти компанії доступні для кожного співробітника.

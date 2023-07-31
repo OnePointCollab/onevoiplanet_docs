@@ -4,12 +4,30 @@ sidebar_position: 1
 
 # Банківська картка
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Щоб поповнити рахунок компанії банківською карткою:
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+1. У лівому сайдбарі натисніть кнопку **Поповнити**.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../../img/finance/i-finance-8.svg)
 
-4. Click **Create a Ticket**.
+2. Виберіть метод оплати
+- Банківська картка
+- Банківський переказ
 
-5. After reviewing your request, we will delete your account.
+![](../../img/finance/i-finance-9.svg)
+
+3. Вкажіть, на яку суму ви хочете поповнити рахунок.
+
+![](../../img/finance/i-finance-10.svg)
+
+Щоб орієнтуватися на яку суму варто поповнити рахунок, Ви можете побачити витрати за останні 7 днів та витрати за останні 30 днів.
+
+![](../../img/finance/i-finance-11.svg)
+
+4. Виберіть спосіб оплати.
+
+![](../../img/finance/i-finance-12.svg)
+
+5. Натисніть **Поповнити**.
+
+![](../../img/finance/i-finance-13.svg)

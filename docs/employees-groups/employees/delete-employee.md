@@ -2,14 +2,54 @@
 sidebar_position: 3
 ---
 
-# Видалення співробітників
+# Видалення співробітника
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Перед тим, як видалити співробітника, переконайтеся, що всі залежності відключені від нього.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+- Співробітник прикріплений до групи.
+- Співробітник прикріплений до вхідного чи вихідного напрямку номера.
+- Співробітник прикріплено до IVR (голосового меню).
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+Від'яжіть від залежності і Ви зможете видалити співробітника.
 
-4. Click **Create a Ticket**.
+## Як видалити одного співробітника?
 
-5. After reviewing your request, we will delete your account.
+1. Натисніть **Співробітники**.
+
+![](../../img/employees-groups/i-employee-1.svg)
+
+2. Перейдіть до **Усі співробітники компанії**.
+
+![](../../img/employees-groups/i-employee-2.svg)
+
+3. Натисніть кнопку **...**
+
+4. Натисніть **Видалити**.
+
+![](../../img/employees-groups/i-employee-16.svg)
+
+5. У модальному вікні підтвердьте дію кнопкою **Видалити**.
+
+![](../../img/employees-groups/i-employee-17.svg)
+
+## Як видалити кілька співробітників?
+
+1. Натисніть **Співробітники**.
+
+![](../../img/employees-groups/i-employee-1.svg)
+
+2. Перейдіть до **Усі співробітники компанії**.
+
+![](../../img/employees-groups/i-employee-2.svg)
+
+3. Перейдіть до кількох або всіх доданих співробітників.
+
+![](../../img/employees-groups/i-employee-18.svg)
+
+4. Натисніть кнопку **Видалити**.
+
+![](../../img/employees-groups/i-employee-19.svg)
+
+5. У модальному вікні підтвердьте дію кнопкою **Видалити**.
+
+![](../../img/employees-groups/i-employee-21.svg)

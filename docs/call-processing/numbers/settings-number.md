@@ -1,15 +1,62 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Налаштування вхідного та вихідного напрямку номера
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Після покупки номера Ви можете керувати вхідним та вихідним напрямком номера.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+**0800 номер може мати тільки вхідний напрямок**.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+Всі інші номери можуть мати лише один вхідний напрямок та безліч вихідних напрямків.
 
-4. Click **Create a Ticket**.
+Вхідний та вихідний напрямок може бути:
+- **Співробітник**
+- **Група**
+- **Голосове меню(IVR)**
 
-5. After reviewing your request, we will delete your account.
+## Налаштування входящего направления
+
+1. Натисніть **Вибрати**.
+
+![](../../img/call-processing/i-numbers-13.svg)
+
+2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вхідний напрямок.
+
+![](../../img/call-processing/i-numbers-14.svg)
+
+3. Натисніть **Зберегти**.
+
+![](../../img/call-processing/i-numbers-15.svg)
+
+> Увага! Ви можете змінити або видалити напрямок, при натисканні на **...**, у меню, що випадає, вибрати ту дію, яку Вам потрібно зробити.
+
+## Налаштування исходящего направления
+
+1. Натисніть **Вибрати**.
+
+![](../../img/call-processing/i-numbers-13.svg)
+
+2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вихідний напрямок.
+
+![](../../img/call-processing/i-numbers-14.svg)
+
+3. Натисніть **Зберегти**.
+
+![](../../img/call-processing/i-numbers-15.svg)
+
+> Увага! Ви можете змінити або видалити напрямок, при натисканні на **...**, у меню, що випадає, вибрати ту дію, яку Вам потрібно зробити.
+
+### Додавання ще одного вихідного напрямку
+
+1. Натисніть **Додати**.
+
+![](../../img/call-processing/i-numbers-16.svg)
+
+2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вихідний напрямок.
+
+![](../../img/call-processing/i-numbers-18.svg)
+
+3. Натисніть **Зберегти**.
+
+![](../../img/call-processing/i-numbers-15.svg)

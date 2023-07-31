@@ -4,12 +4,75 @@ sidebar_position: 1
 
 # Створення співробітника
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Співробітників можна додавати до груп, прикріплювати направлення на голосове меню, здійснювати дзвінки з цього співробітника.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Кожен співробітник має власну внутрішню SIP лінію.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+У кожному тарифі є обмеження на кількість доданих співробітників.
 
-4. Click **Create a Ticket**.
+[Детальніше ознайомитися з тарифами →](https://onevoiplanet.ua/ua/plans)
 
-5. After reviewing your request, we will delete your account.
+![](../../img/authorization/line.svg)
+
+## Як створити співробітника?
+
+1. Нажміть **Співробітники**.
+
+![](../../img/employees-groups/i-employee-1.svg)
+
+2. Перейдіть до **Усі співробітники компанії**.
+
+![](../../img/employees-groups/i-employee-2.svg)
+
+3. Нажміть **Створити співробітника**.
+
+![](../../img/employees-groups/i-employee-3.svg)
+
+Створення співробітника поділено на два етапи - **Дані співробітника** та **Налаштування облікового запису SIP**.
+
+![](../../img/employees-groups/i-employee-4.svg)
+
+## Перший етап. Дані співробітника
+
+Заповніть дані співробітника:
+- Прізвище
+- Ім'я
+- По-батькові
+- Роль співробітника
+- Е-мейл
+- Телефон
+- Пароль
+
+[Ознайомтеся зі списком ролей та їхніми правами →](/employees-groups/employees/roles)
+
+E-mail та пароль будуть дані для авторизації співробітника в його особистому кабінеті.
+
+4. Нажміть **Продовжити**.
+
+![](../../img/employees-groups/i-employee-5.svg)
+
+## Другий етап. Налаштування акаунту SIP
+
+Після створення співробітника буде автоматично згенеровано SIP-адресу співробітника, за допомогою якого можна використовувати сторонні програми для того, щоб здійснювати дзвінки.
+
+![](../../img/employees-groups/i-employee-6.svg)
+
+1. Виберіть домен, у якому буде створено співробітника.
+
+![](../../img/employees-groups/i-employee-8.svg)
+
+[Детальніше ознайомитися з доменами →](https://onevoiplanet.ua/ua/plans)
+
+2. Введіть пароль SIP.
+
+![](../../img/employees-groups/i-employee-9.svg)
+
+Пароль буде використовуватися для авторизації у сторонніх програмах.
+
+3. Натисніть **Створити**.
+
+![](../../img/employees-groups/i-employee-7.svg)
+
+Після створення з'явиться модальне вікно з інформацією ПІБ та SIP даними, які можна використовувати у сторонніх додатках. Ці дані Ви зможете переглянути ці дані далі в редагуванні профілю співробітника.
+
+![](../../img/employees-groups/i-employee-10.svg)

@@ -1,15 +1,31 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Редагування номеру та змінення кількісті каналів
+# Змінення кількісті каналів у номері
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+1. Натисніть **Обробка дзвінків**.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+![](../../img/call-processing/i-numbers-3.svg)
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+2. Перейдіть до **Номерів**.
 
-4. Click **Create a Ticket**.
+![](../../img/call-processing/i-numbers-4.svg)
 
-5. After reviewing your request, we will delete your account.
+3. У номері якому ви хочете змінити кількість каналів, натисніть **...**.
+
+![](../../img/call-processing/i-numbers-5.svg)
+
+4. Натисніть **Редагувати**.
+
+5. У модальному вікні, Ви можете змінити кількість каналів.
+
+>При збільшенні кількості каналів знято кошти за додані канали з перерахунком до кінця місяця.
+>
+> При зменшенні кількості каналів кошти не повертаються, з наступного місяця буде списання перераховано по кількості каналів.
+
+Ви бачите загальну вартість абонплати за канали на місяць. І пункт **Буде знято**, в якому відображається скільки грошей буде списано при додаванні каналів.
+
+6. Натисніть **Зберегти**.
+
+![](../../img/call-processing/i-numbers-15.svg)

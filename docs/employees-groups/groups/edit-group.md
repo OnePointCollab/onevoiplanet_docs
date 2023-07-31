@@ -4,12 +4,64 @@ sidebar_position: 3
 
 # Редагування групи
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+## Як редагувати групу?
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+1. Нажміть **Співробітники**.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../../img/employees-groups/i-employee-1.svg)
 
-4. Click **Create a Ticket**.
+2. Перейдіть до **Групи співробтників**.
 
-5. After reviewing your request, we will delete your account.
+![](../../img/employees-groups/i-group-14.svg)
+
+3. Натисніть на назву групи або натисніть кнопку **...** і виберіть пункт **Редагувати**.
+
+![](../../img/employees-groups/i-group-15.svg)
+
+## Налаштування виклику
+
+![](../../img/employees-groups/i-group-20.svg)
+
+Ви можете редагувати назву групи.
+
+Змінити SIP-адресу та домен групи неможливо.
+
+### Алгоритм розподілу дзвінків у групі
+
+![](../../img/employees-groups/i-group-19.svg)
+
+Ви можете змінити алгоритм розподілу дзвінків у групі.
+
+[Детальніше ознайомитися з алгоритмами →](https://onevoiplanet.ua/ua/plans)
+
+## Під час очікування до відповіді оператора
+
+![](../../img/employees-groups/i-group-18.svg)
+
+Усі пункти можливі для редагування.
+
+## Налаштування утримання
+
+![](../../img/employees-groups/i-group-16.svg)
+
+Усі пункти можливі для редагування.
+
+## Мелодії та звукові сповіщення
+
+![](../../img/employees-groups/i-group-17.svg)
+
+Усі пункти можливі для редагування.
+
+## Співробітники
+
+![](../../img/employees-groups/i-group-21.svg)
+
+Можливість редагування послідовності можлива за умови обраного алгоритму розподілу дзвінків **Послідовний**.
+
+Щоб видалити співробітників із групи, натисніть кнопку **Видалити**.
+
+![](../../img/employees-groups/i-group-22.svg)
+
+Після внесення всіх змін натисніть **Зберігти налаштування**.
+
+![](../../img/employees-groups/i-group-13.svg)

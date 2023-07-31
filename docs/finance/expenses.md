@@ -4,12 +4,22 @@ sidebar_position: 1
 
 # Витрати
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Здійснюючи покупки в особистому кабінеті, на сторінці **Витрати** буде відображено весь список витрат за вибраний період часу.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Спочатку відображається за **Поточний місяць**. Ви можете змінити та вибрати з якого дня та по який день відображати витрати. Або вибрати один день.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../img/finance/i-finance-1.svg)
 
-4. Click **Create a Ticket**.
+У сусідньому блоці відображається сума витрат за вибраний період.
 
-5. After reviewing your request, we will delete your account.
+![](../img/finance/i-finance-2.svg)
+
+У таблиці Ви можете спостерігати назву замовлення, суму, дату замовлення та платіжну систему.
+
+![](../img/finance/i-finance-3.svg)
+
+Щоб подивитися, що входить у замовлення натисніть **назву замовлення**.
+
+У замовленні буде відображено назву послуг та їх вартість та підсумок за це замовлення.
+
+![](../img/finance/i-finance-4.svg)

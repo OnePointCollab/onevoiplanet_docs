@@ -7,33 +7,43 @@ const CustomComponent = () => {
   const data = [
     {
       type: 'category',
-      // collapsed:false,
-      // collapsible:true,
-      description:'dsadsadsa',
+      description:'Вхід в особистий кабінет, реєстрація, верифікація',
       items: [],
       href:'/authorization-and-verification/sign-in',
 
-      label: 'Kekis'
+      label: 'Авторизація та верифікація'
     },
     {
-      type: 'link',
-      // collapsed:false,
-      // collapsible:false,
-      description:'dsadsadsa',
+      type: 'category',
+      description:'Створення, редагування, видалення співробітника, алгоритм розподілення дзвінків у групі',
       items: [],
-      href:'dsadsas',
+      href:'/employees-groups/employees/create-employee',
 
-      label: 'Kekis'
+      label: 'Співробітники та групи'
     },
     {
-      type: 'link',
-      // collapsed:false,
-      // collapsible:false,
-      description:'dsadsadsa',
+      type: 'category',
+      description:'Покупка номера, вартість номеру, налаштування вхідного та вихідного напрямку номера',
       items: [],
-      href:'dsadsas',
+      href:'/call-processing/numbers/buy-number',
 
-      label: 'Kekis'
+      label: 'Номери'
+    },
+    {
+      type: 'category',
+      description:'Витрати, поповнення, управління тарифом, поповення рахунку',
+      items: [],
+      href:'/finance/expenses',
+
+      label: 'Фінанси'
+    },
+    {
+      type: 'category',
+      description:'Журнал дзвінків, оцінка ефективності роботи, навантаження по годинах, показники обслуговування',
+      items: [],
+      href:'/statistics/journal-calls',
+
+      label: 'Статистика'
     },
   ]
   return (

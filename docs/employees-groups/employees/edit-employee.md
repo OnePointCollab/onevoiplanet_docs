@@ -4,12 +4,34 @@ sidebar_position: 2
 
 # Редагування співробітника
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+## Як редагувати співробітника?
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+1. Нажміть **Співробітники**.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../../img/employees-groups/i-employee-1.svg)
 
-4. Click **Create a Ticket**.
+2. Перейдіть до **Усі співробітники компанії**.
 
-5. After reviewing your request, we will delete your account.
+![](../../img/employees-groups/i-employee-2.svg)
+
+3. Натисніть на ПІБ співробітника або натисніть кнопку **...** і виберіть пункт **Редагувати**.
+
+![](../../img/employees-groups/i-employee-11.svg)
+
+## Особисті дані
+
+Ви можете редагувати усі особисті дані співробітника з роллю нижче **Адміністратора**.
+
+![](../../img/employees-groups/i-employee-14.svg)
+
+## Обліковий запис SIP
+
+SIP адресу та домен співробітника неможливо змінити.
+
+![](../../img/employees-groups/i-employee-12.svg)
+
+Пароль можна **Скопіювати** та **Змінити пароль**.
+
+4. Щоб зберегти дані, натисніть **Зберігти**.
+
+![](../../img/employees-groups/i-employee-13.svg)

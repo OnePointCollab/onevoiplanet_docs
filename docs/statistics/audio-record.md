@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Аудіозаписи розмов
+# Аудіозапис розмов
 
 Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
 

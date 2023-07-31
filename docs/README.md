@@ -9,10 +9,8 @@ sidebar_label: Привітання
 
 import CustomComponent from './customBar.js'
 
-This user guide contains functional documentation for all features available in the OneCloudPlanet cloud platform control panel.
+**Хмарна телефонія OneVOIPlanet** яка дозволяє бути на зв'язку в будь якому місці.
 
-![](./img/i-welcome-en.jpg)
+![](./img/i-welcome-en.svg)
 
 <CustomComponent/>
-
-Before delving into this user guide, we recommend that you familiarize yourself with the basic concepts below. They will help you understand how OneCloudPlanet works.

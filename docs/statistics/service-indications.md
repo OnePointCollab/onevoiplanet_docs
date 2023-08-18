@@ -4,12 +4,27 @@ sidebar_position: 5
 
 # Показники обслуговування
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Показує основні KPI (показники обслуговування дзвінків клієнтів) співробітників та груп, дозволяючи робити висновки щодо якості їх роботи.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Є фільтрація за:
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../img/statistics/i-performance-7.svg)
 
-4. Click **Create a Ticket**.
+- **Угруповання** (по співробітникам, по днях)
+- **Показувати статистику** (по дням, по годинам)
+- **Дата** (на день, за період часу)
+- **Вважати дзвінком коротким (сек.)** (У цьому полі вказуйте кількість секунд розмови, яким вважати коротким)
 
-5. After reviewing your request, we will delete your account.
+Таблиця складається з таких пунктів:
+
+- Дата
+- Кількість успішних викликів
+- Кількість пропущених викликів
+- Відсоток пропущених викликів
+- Середня швидкість відповіді, сек.
+- Середній час розмови, сек.
+- Загальний час дзвінків за цей період
+- Відсоток коротких розмов
+- Загальний час коротких розмов
+
+Для того, чтобы просмотреть показатели обслуживания у определенного сотрудника, нажмите стрелку вниз возле этого сотрудника чтобы раскрылась подробная информация.

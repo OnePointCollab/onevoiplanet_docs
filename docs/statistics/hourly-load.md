@@ -4,12 +4,22 @@ sidebar_position: 4
 
 # Навантаження по годинах
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Показує розподіл дзвінків за часом доби, дозволяючи виділити години пікового навантаження на компанію, групи чи співробітників за кількістю дзвінків.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Є фільтрація за:
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../img/statistics/i-performance-4.svg)
 
-4. Click **Create a Ticket**.
+- **Напрямок** (всі, вхідні, вихідні)
+- **Дата** (на день, за період часу). Більше 30 календарних днів неможливо вибрати.
+- **Вхідна лінія** (Понеділок, вівторок, середа, четверг, п'ятниця, субота, неділя)
+- **Група** (Всі або фільтр за певною групою)
+- **Співробітник** (Всі або фільтр за певним співробітником)
 
-5. After reviewing your request, we will delete your account.
+**Графік відображення навантаження по годинах:**
+
+![](../img/statistics/i-performance-5.svg)
+
+На якому ви можете бачити перелік часів та наводячи на лінію, відображається модальне вікно з переліком успішних, не успішних, всіх дзвінків за обраний Вами період та іншими пунктами фільтрації.
+
+![](../img/statistics/i-performance-6.svg)

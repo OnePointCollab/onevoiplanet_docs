@@ -4,12 +4,26 @@ sidebar_position: 2
 
 # Аудіозапис розмов
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Якщо ви ввімкнули аудіозапис розмов у налаштуваннях компанії, ви зможете прослуховувати записи в журналі дзвінка.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Запис дзвінка доступний після 5 хвилин після завершення дзвінка.
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+Зберігання аудіозаписів дзвінків доступне протягом усього облікового запису.
 
-4. Click **Create a Ticket**.
+## Як прослухати аудіозапис розмови?
 
-5. After reviewing your request, we will delete your account.
+1. Натисніть кнопку відтворення аудіозапису.
+
+![](../img/statistics/i-journal-30.svg).
+
+2. У медіа-плеєрі можете прослухати аудіозапис, увімкнути з певного моменту, змінити гучність та закрити медіа-плеєр.
+
+![](../img/statistics/i-journal-27.svg)
+
+## Як завантажити аудіозапис розмови?
+
+1. Натисніть кнопку завантаження аудіозапису.
+
+![](../img/statistics/i-journal-31.svg).
+
+Завантажений файл потрапляє до папки Завантаження на Ваш комп'ютер.

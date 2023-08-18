@@ -4,12 +4,25 @@ sidebar_position: 3
 
 # Оцінка ефективності роботи
 
-Independent re-registration of the account to another legal or natural person, changing the full name of the Account Owner is impossible.
+Показує кількість дзвінків за напрямками, зовнішними лініями АТС, групами та співробітниками, дозволяючи визначити динаміку їх змін або порівняти між собою.
 
-To change data and transfer services from one account to another, please contact [techical support](#).
+Є фільтрація за:
 
-3. Contact technical support. When filling out a ticket, in the **Message** field, specify the reason for deleting the account.
+![](../img/statistics/i-performance-1.svg)
 
-4. Click **Create a Ticket**.
+- **Напрямок** (всі, вхідні, вихідні)
+- **Угруповання** (по співробітникам, по днях)
+- **Дата** (на день, за період часу). Більше 30 календарних днів неможливо вибрати.
+- **Вхідна лінія** (номер)
+- **Група** (Всі або фільтр за певною групою)
+- **Співробітник** (Всі або фільтр за певним співробітником)
 
-5. After reviewing your request, we will delete your account.
+**Графік відображення ефективності роботи співробітників/груп:**
+
+![](../img/statistics/i-performance-2.svg)
+
+На якому ви можете бачити співробітників/групи та наводячи на лінію, відображається модальне вікно з переліком успішних, не успішних, всіх дзвінків за обраний Вами період та іншими пунктами фільтрації.
+
+Для роботи з великою кількістю даних, або з фільтрацією **Угрупування по днях**, зручніше дивитися в таблицю, розміщену нижче.
+
+![](../img/statistics/i-performance-3.svg)

@@ -104,13 +104,29 @@ const config = {
           },
           
           items: [
-            // {
-            //   type: 'docSidebar',
-            //   to: '/documentation',
-            //   sidebarId: 'tutorialSidebar',
-            //   position: 'left',
-            //   label: 'Documentation',
-            // },
+            {
+              type: 'html',
+              // to: 'https://onevoiplanet.ua/',
+              // sidebarId: 'tutorialSidebar',
+              position: 'right',
+              value: 
+                `<a 
+                  href="https://cabinet.onevoiplanet.ua/"
+                  target="_blank"
+                  style="
+                    background:#3538CD;
+                    font-weight:600;
+                    text-decoration:none;
+                    border:none;
+                    border-radius:8px;
+                    padding: 9px 12px;
+                    height:38px;
+                    color:#fff";
+                    font-size:16px;
+                  >
+                    Особистий кабінет
+                  </a>`,
+            },
             {
               type: 'search',
               position: 'right',

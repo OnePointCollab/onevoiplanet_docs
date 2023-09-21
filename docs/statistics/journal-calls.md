@@ -40,6 +40,7 @@ sidebar_position: 1
 - ![](../img/statistics/i-journal-5.svg) Телефонували і телефон абонента вимкнений або недоступний
 - ![](../img/statistics/i-journal-6.svg) Дзвонили та абонент скинув
 - ![](../img/statistics/i-journal-99.svg) Дзвонили абоненту і без відповіді
+- ![](../img/statistics/i-journal-98.svg) Оператор здійснив дзвінок та скинув
 - ![](../img/statistics/i-journal-9.svg) Пропущений виклик
 - ![](../img/statistics/i-journal-8.svg) Передзвонили на пропущений дзвінок
 - ![](../img/statistics/i-journal-10.svg) Невідома помилка

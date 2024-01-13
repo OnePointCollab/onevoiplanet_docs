@@ -156,7 +156,7 @@ sidebar_position: 2
 
 ![](../../img/call-processing/create-ivr/Рисунок29.png)
  
-16.	Натисніть **Зберегти*8.
+16.	Натисніть **Зберегти**.
 
 ![](../../img/call-processing/create-ivr/Рисунок30.png)
  

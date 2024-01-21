@@ -33,4 +33,5 @@ sidebar_position: 3
 SIP-адресу та домен голосового меню неможливо змінити.
 
 5.	Щоб зберегти дані, натисніть **Зберегти**.
- ![](../../img/call-processing/create-ivr/Рисунок43.png)
+ 
+![](../../img/call-processing/create-ivr/Рисунок43.png)

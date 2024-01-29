@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # Налаштування програми Zoiper
 
+- [Налаштування програми Zoiper на Android](docs/sip-clients/settings-zoiper.md#налаштування-програми-zoiper-на-android)
+
+- [Налаштування програми Zoiper на IOS](docs/sip-clients/settings-zoiper.md#налаштування-програми-zoiper-на-ios)
+
 ## Налаштування програми Zoiper на Android
 
 Налаштування софтфону Zoiper на оперативну систему Android мобільного телефону.

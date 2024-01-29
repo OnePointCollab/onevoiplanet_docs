@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # Налаштування програми PortSIP
 
+- [Налаштування програми PortSIP на Android](docs/sip-clients/settings-portSIP.md#налаштування-програми-portsip-на-android)
+
+- [Налаштування програми PortSIP на IOS](docs/sip-clients/settings-portSIP.md#налаштування-програми-portsip-на-ios)
+
 ## Налаштування програми PortSIP на Android
 
 Налаштування софтфону PortSIP на оперативну систему Android мобільного телефону.

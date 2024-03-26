@@ -39,7 +39,7 @@ sidebar_position: 3
 
 2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вихідний напрямок.
 
-![](../../img/call-processing/i-numbers-14.svg)
+![](../../img/call-processing/outgoing-line-block.svg)
 
 3. Натисніть **Зберегти**.
 
@@ -55,7 +55,7 @@ sidebar_position: 3
 
 2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вихідний напрямок.
 
-![](../../img/call-processing/i-numbers-18.svg)
+![](../../img/call-processing/outgoing-line-block.svg)
 
 3. Натисніть **Зберегти**.
 

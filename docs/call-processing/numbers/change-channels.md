@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Змінення кількості каналів у номері
+# Змінення кількості каналів міського номері
 
 1. Натисніть **Обробка дзвінків**.
 
@@ -14,9 +14,11 @@ sidebar_position: 4
 
 3. У номері якому ви хочете змінити кількість каналів, натисніть **...**.
 
-![](../../img/call-processing/i-numbers-5.svg)
+![](../../img/widgets/callback-widget/edit-callback/call-back-menu-button.svg)
 
 4. Натисніть **Редагувати**.
+
+![](../../img/widgets/callback-widget/edit-callback/call-back-menu-edit-button.svg)
 
 5. У модальному вікні, ви можете змінити кількість каналів.
 

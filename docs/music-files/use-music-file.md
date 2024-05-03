@@ -7,24 +7,24 @@ sidebar_position: 3
 ### Як додати музичний файл для того, щоб клієнт чув мелодію під час очікування зʼєднання з оператором?
 1.	Натисніть **Співробітники**.
  
- ![](../../img/general-settings/music-files/Рисунок53.png)
+ ![](../img/general-settings/music-files/Рисунок53.png)
 
 2.	Перейдіть до **Групи співробітників**.
  
- ![](../../img/general-settings/music-files/Рисунок54.png)
+ ![](../img/general-settings/music-files/Рисунок54.png)
 
 3.	Натисніть на назву групи або натисніть кнопку ... і виберіть пункт **Редагувати**.
  
- ![](../../img/general-settings/music-files/Рисунок55.png)
+ ![](../img/general-settings/music-files/Рисунок55.png)
 
 4.	Виберіть пункт **Налаштування утримання**.
  
- ![](../../img/general-settings/music-files/Рисунок56.png)
+ ![](../img/general-settings/music-files/Рисунок56.png)
 
 5.	Виберіть з переліку музичний файл, який Ви бажаєте, щоб чув клієнт під час очікування зʼєднання з оператором.
  
- ![](../../img/general-settings/music-files/Рисунок57.png)
+ ![](../img/general-settings/music-files/Рисунок57.png)
 
 6.	Натисніть **Зберегти налаштування**.
  
- ![](../../img/general-settings/music-files/Рисунок58.png)
+ ![](../img/general-settings/music-files/Рисунок58.png)

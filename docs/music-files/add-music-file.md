@@ -11,26 +11,26 @@ sidebar_position: 1
 ### Як додати музичний файл?
 1.	Натисніть **Загальні налаштування**.
  
- ![](../../img/general-settings/music-files/Рисунок47.png)
+ ![](../img/general-settings/music-files/Рисунок47.png)
 
 2.	Перейдіть до **Музичні файли**.
  
- ![](../../img/general-settings/music-files/Рисунок48.png)
+ ![](../img/general-settings/music-files/Рисунок48.png)
 
 3.	Натисніть **Додати музичний файл**.
  
- ![](../../img/general-settings/music-files/Рисунок49.png)
+ ![](../img/general-settings/music-files/Рисунок49.png)
 
 4.	Придумайте та введіть назву музичного файлу.
  
- ![](../../img/general-settings/music-files/Рисунок50.png)
+ ![](../img/general-settings/music-files/Рисунок50.png)
 
 5.	Перетягніть музичний файл або натисніть на вікно завантаження.
  
- ![](../../img/general-settings/music-files/Рисунок51.png)
+ ![](../img/general-settings/music-files/Рисунок51.png)
  
 **Будьте уважні!** Музичний файл має бути у форматі мр3 або рсм. Обʼєм файлу не повинен перевищувати 20 мб.
 
 6.	Натисніть **Зберегти**.
 
- ![](../../img/general-settings/music-files/Рисунок52.png)
+ ![](../img/general-settings/music-files/Рисунок52.png)

@@ -9,44 +9,44 @@ sidebar_position: 1
 ### Як додати голосовий файл?
 1.	Натисніть **Загальні налаштування**.
  
- ![](../../img/general-settings/voice-files/Рисунок63.png)
+ ![](../img/general-settings/voice-files/Рисунок63.png)
 
 2.	Перейдіть до **Голосові файли**.
  
- ![](../../img/general-settings/voice-files/Рисунок64.png)
+ ![](../img/general-settings/voice-files/Рисунок64.png)
 
 3.	Натисніть Додати голосовий файл.
  
- ![](../../img/general-settings/voice-files/Рисунок65.png)
+ ![](../img/general-settings/voice-files/Рисунок65.png)
 
 4.	Придумайте та введіть назву голосового файлу.
  
- ![](../../img/general-settings/voice-files/Рисунок66.png)
+ ![](../img/general-settings/voice-files/Рисунок66.png)
 
 5.	Перетягніть голосовий файл або натисніть на вікно завантаження.
  
- ![](../../img/general-settings/voice-files/Рисунок67.png)
+ ![](../img/general-settings/voice-files/Рисунок67.png)
  
 **Будьте уважні!** Голосовий файл має бути у форматі мр3 або рсм. Обʼєм файлу не повинен перевищувати 20 мб.
 
  
 6.	Також у Вас є можливість самостійно записати голосовий файл. Для цього натисніть **Записати голосовий файл**.
  
- ![](../../img/general-settings/voice-files/Рисунок68.png)
+ ![](../img/general-settings/voice-files/Рисунок68.png)
 
 7.	Щоб розпочати запис, натисніть на червону кнопку.
  
- ![](../../img/general-settings/voice-files/Рисунок69.png)
+ ![](../img/general-settings/voice-files/Рисунок69.png)
 
 8.	Щоб завершити запис, натисніть на кнопку ще раз.
  
- ![](../../img/general-settings/voice-files/Рисунок70.png)
+ ![](../img/general-settings/voice-files/Рисунок70.png)
 
 9.	Після запису у Вас є можливість прослухати та перезаписати голосовий файл.
  
- ![](../../img/general-settings/voice-files/Рисунок71.png)
+ ![](../img/general-settings/voice-files/Рисунок71.png)
 
 10.	Натисніть **Зберегти**.
  
- ![](../../img/general-settings/voice-files/Рисунок72.png)
+ ![](../img/general-settings/voice-files/Рисунок72.png)
  

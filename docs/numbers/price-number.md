@@ -26,7 +26,7 @@ sidebar_position: 2
 
 Мінімальна кількість каналів для покупки номера складає 4. Приклад використання наведено нижче.
 
-![](../../img/call-processing/i-numbers-1.svg)
+![](../img/call-processing/i-numbers-1.svg)
 
 Ціна одного каналу - **25 грн**.
 

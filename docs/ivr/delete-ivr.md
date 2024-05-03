@@ -9,16 +9,16 @@ sidebar_position: 4
 
 1.	Натисніть **Обробка дзвінків**.
  
- ![](../../img/call-processing/create-ivr/Рисунок44.png)
+ ![](../img/call-processing/create-ivr/Рисунок44.png)
 
 2.	Перейдіть до **Голосове меню (IVR)**.
  
-  ![](../../img/call-processing/create-ivr/Рисунок45.png)
+  ![](../img/call-processing/create-ivr/Рисунок45.png)
 
 3.	Натисніть кнопку ... і виберіть пункт **Видалити**.
  
-  ![](../../img/call-processing/create-ivr/Рисунок46.png)
+  ![](../img/call-processing/create-ivr/Рисунок46.png)
 
 4.	У вікні підтвердіть дію кнопкою **Видалити**.
 
- ![](../../img/call-processing/create-ivr/Рисунок42.png)
+ ![](../img/call-processing/create-ivr/Рисунок42.png)

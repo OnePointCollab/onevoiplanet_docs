@@ -14,15 +14,15 @@ sidebar_position: 3
 
 1. Натисніть **Вибрати**.
 
-![](../../img/call-processing/i-numbers-13.svg)
+![](../img/call-processing/i-numbers-13.svg)
 
 2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вхідний напрямок.
 
-![](../../img/call-processing/i-numbers-14.svg)
+![](../img/call-processing/i-numbers-14.svg)
 
 3. Натисніть **Зберегти**.
 
-![](../../img/call-processing/i-numbers-15.svg)
+![](../img/call-processing/i-numbers-15.svg)
 
 > Увага! Ви можете змінити або видалити напрямок, при натисканні на **...**, у меню, що випадає, вибрати ту дію, яку Вам потрібно зробити.
 
@@ -30,15 +30,15 @@ sidebar_position: 3
 
 1. Натисніть **Вибрати**.
 
-![](../../img/call-processing/i-numbers-13.svg)
+![](../img/call-processing/i-numbers-13.svg)
 
 2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вихідний напрямок.
 
-![](../../img/call-processing/outgoing-line-block.svg)
+![](../img/call-processing/outgoing-line-block.svg)
 
 3. Натисніть **Зберегти**.
 
-![](../../img/call-processing/i-numbers-15.svg)
+![](../img/call-processing/i-numbers-15.svg)
 
 > Увага! Ви можете змінити або видалити напрямок, при натисканні на **...**, у меню, що випадає, вибрати ту дію, яку Вам потрібно зробити.
 
@@ -46,12 +46,12 @@ sidebar_position: 3
 
 1. Натисніть **Додати**.
 
-![](../../img/call-processing/i-numbers-16.svg)
+![](../img/call-processing/i-numbers-16.svg)
 
 2. У модальному вікні, виберіть напрямок та у списку, виберіть кого хочете призначити на вихідний напрямок.
 
-![](../../img/call-processing/outgoing-line-block.svg)
+![](../img/call-processing/outgoing-line-block.svg)
 
 3. Натисніть **Зберегти**.
 
-![](../../img/call-processing/i-numbers-15.svg)
+![](../img/call-processing/i-numbers-15.svg)

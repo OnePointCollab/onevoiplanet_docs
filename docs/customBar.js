@@ -25,7 +25,7 @@ const CustomComponent = () => {
       type: 'category',
       description:'Покупка номера, вартість номеру, налаштування вхідного та вихідного напрямку номера',
       items: [],
-      href:'/call-processing/numbers/buy-number',
+      href:'/numbers/buy-number',
 
       label: 'Номери'
     },

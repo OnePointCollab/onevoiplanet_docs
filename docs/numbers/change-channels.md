@@ -6,19 +6,19 @@ sidebar_position: 4
 
 1. Натисніть **Обробка дзвінків**.
 
-![](../../img/call-processing/i-numbers-3.svg)
+![](../img/call-processing/i-numbers-3.svg)
 
 2. Перейдіть до **Номерів**.
 
-![](../../img/call-processing/i-numbers-4.svg)
+![](../img/call-processing/i-numbers-4.svg)
 
 3. У номері якому ви хочете змінити кількість каналів, натисніть **...**.
 
-![](../../img/widgets/callback-widget/edit-callback/call-back-menu-button.svg)
+![](../img/widgets/callback-widget/edit-callback/call-back-menu-button.svg)
 
 4. Натисніть **Редагувати**.
 
-![](../../img/widgets/callback-widget/edit-callback/call-back-menu-edit-button.svg)
+![](../img/widgets/callback-widget/edit-callback/call-back-menu-edit-button.svg)
 
 5. У модальному вікні, ви можете змінити кількість каналів.
 
@@ -30,4 +30,4 @@ sidebar_position: 4
 
 6. Натисніть **Зберегти**.
 
-![](../../img/call-processing/i-numbers-15.svg)
+![](../img/call-processing/i-numbers-15.svg)

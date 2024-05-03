@@ -29,11 +29,7 @@ sidebar_position: 3
 
 Для повноцінної роботи хмарної АТС виконайте наступний список дій:
 
-![](../../img/authorization/i-sign-in8.svg)
-
-**Верифікація профілю**. Заповніть особисту інформацію про себе або компанію.
-
-[Докладніше про Верифікацію профілю →](/authorization-and-verification/verification/verification-individual)
+![](../../img/authorization/registration-tasks-block.svg)
 
 **Вибір тарифу та покупка номерів**. Ознайомтесь та оберіть  найзручніший для вас тариф, перейдіть до покупки номерів.
 

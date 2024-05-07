@@ -25,4 +25,4 @@ sidebar_position: 1
 
 ![](../../img/widgets/callback-widget/create-callback/call-back-create-button2.svg)
 
-Домен успішено створено.
+Домен успішно створено.

@@ -26,4 +26,4 @@ sidebar_position: 2
 
 ![](../img/contacts/save-button.svg)
 
-Контак успішно відредаговано
+Контакт успішно відредаговано

@@ -24,8 +24,8 @@ sidebar_position: 2
 
 ![](../img/black-list/edit-number-input.svg)
 
-5. Натсніть **Редагувати**
+5. Натсніть **Зберегти**
 
-![](../img/widgets/callsite-widget/edit-callsite/call-site-edit-button.svg)
+![](../img/black-list/save-button.svg)
 
 Номер успішно відредаговано

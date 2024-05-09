@@ -56,4 +56,4 @@ sidebar_position: 3
 
 ![](../img/black-list/delete-button.svg)
 
-Номера успішно видалено
+Номери успішно видалено

@@ -64,7 +64,7 @@ E-mail та пароль потрібні для авторизації спів
 
 ![](../../img/employees-groups/i-employee-8.svg)
 
-[Детальніше ознайомитися з доменами →](https://onevoiplanet.ua/ua/plans)
+[Детальніше ознайомитися з доменами →](../../sip-settings/sip-domains/create-sip-domain.md)
 
 2. Введіть пароль SIP.
 

@@ -8,13 +8,9 @@ sidebar_position: 2
 
 1. Нажміть **Співробітники**.
 
-![](../../img/employees-groups/i-employee-1.svg)
+![](../../img/employees-groups/side-bar-employee-tab.svg)
 
-2. Перейдіть до **Усі співробітники компанії**.
-
-![](../../img/employees-groups/i-employee-2.svg)
-
-3. Натисніть на ПІБ співробітника або натисніть кнопку **...** і виберіть пункт **Редагувати**.
+2. Натисніть на ПІБ співробітника або натисніть кнопку **...** і виберіть пункт **Редагувати**.
 
 ![](../../img/employees-groups/i-employee-11.svg)
 
@@ -28,7 +24,7 @@ sidebar_position: 2
 
 SIP-адресу та домен співробітника неможливо змінити.
 
-![](../../img/employees-groups/i-employee-12.svg)
+![](../../img/employees-groups/employee-sip-block.svg)
 
 Пароль можна **Скопіювати** та **Змінити пароль**.
 

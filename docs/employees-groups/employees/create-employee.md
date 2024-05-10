@@ -17,7 +17,7 @@ sidebar_position: 1
 
 У кожному тарифі є обмеження на кількість доданих співробітників.
 
-[Детальніше ознайомитися з тарифами →](https://onevoiplanet.ua/ua/plans)
+[Детальніше ознайомитися з тарифами →](https://onevoiplanet.ua/uk/plans)
 
 ![](../../img/authorization/line.svg)
 
@@ -25,13 +25,9 @@ sidebar_position: 1
 
 1. Натисніть **Співробітники**.
 
-![](../../img/employees-groups/i-employee-1.svg)
+![](../../img/employees-groups/side-bar-employee-tab.svg)
 
-2. Перейдіть до **Усі співробітники компанії**.
-
-![](../../img/employees-groups/i-employee-2.svg)
-
-3. Натисніть **Створити співробітника**.
+2. Натисніть **Створити співробітника**.
 
 ![](../../img/employees-groups/i-employee-3.svg)
 
@@ -50,7 +46,7 @@ sidebar_position: 1
 - Телефон
 - Пароль
 
-[Ознайомтеся зі списком ролей та їхніми правами →](/employees-groups/employees/roles)
+[Ознайомтеся зі списком ролей та їхніми правами →](roles.md)
 
 E-mail та пароль потрібні для авторизації співробітника в його особистому кабінеті.
 
@@ -68,7 +64,7 @@ E-mail та пароль потрібні для авторизації спів
 
 ![](../../img/employees-groups/i-employee-8.svg)
 
-[Детальніше ознайомитися з доменами →](https://onevoiplanet.ua/ua/plans)
+[Детальніше ознайомитися з доменами →](../../sip-settings/sip-domains/create-sip-domain.md)
 
 2. Введіть пароль SIP.
 

@@ -7,11 +7,11 @@ const CustomComponent = () => {
   const data = [
     {
       type: 'category',
-      description:'Вхід в особистий кабінет, реєстрація, верифікація',
+      description:'Вхід в особистий кабінет, реєстрація, відновлення паролю',
       items: [],
       href:'/authorization-and-verification/sign-in',
 
-      label: 'Авторизація та верифікація'
+      label: 'Авторизація'
     },
     {
       type: 'category',

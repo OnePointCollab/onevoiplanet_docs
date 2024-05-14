@@ -11,15 +11,12 @@ sidebar_position: 2
 **Голосові файли.** Голосовий аудіозапис, який чує клієнт, звернувшись до Вас. <br/>[Детальніше ознайомитися з голосовими файлами](/docs/audio-files/voice-files/add-voice-file.md)
 
 ## Як створити голосове меню?
-1. Натисніть **Обробка дзвінків**.
 
-![](../img/call-processing/create-ivr/Рисунок1.png)
+1. Перейдіть до **Голосове меню (IVR)**.
 
-2. Перейдіть до **Голосове меню (IVR)**.
+![](../img/call-processing/create-ivr/side-bar-ivr-tab.svg)
 
-![](../img/call-processing/create-ivr/Рисунок2.png)
-
-3. Натисніть **Створити шаблон IVR**.
+2. Натисніть **Створити шаблон IVR**.
 
 ![](../img/call-processing/create-ivr/Рисунок3.png)
 

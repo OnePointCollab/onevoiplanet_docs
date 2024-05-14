@@ -9,13 +9,14 @@ sidebar_position: 1
 Музичні файли можна додати лише на групу. Групу можна створити з одного співробітника. <br/> [Детальніше ознайомитися з групами](docs/employees-groups/groups/create-group.md)
 	
 ### Як додати музичний файл?
-1.	Натисніть **Загальні налаштування**.
+
+1.	Натисніть **Аудіо фалйи**.
  
- ![](../../img/general-settings/music-files/Рисунок47.png)
+ ![](../../img/general-settings/music-files/side-bar-audio-files-tab.svg)
 
 2.	Перейдіть до **Музичні файли**.
  
- ![](../../img/general-settings/music-files/Рисунок48.png)
+ ![](../../img/general-settings/music-files/side-bar-music-files-tab.svg)
 
 3.	Натисніть **Додати музичний файл**.
  

@@ -7,13 +7,14 @@ sidebar_position: 2
 **Будьте уважні!** Перед видаленням переконайтеся, що музичний файл не підвʼязаний до жодної групи.
 
 ### Як видалити музичний файл?
-1.	Натисніть **Загальні налаштування**.
+
+1.	Натисніть **Аудіо файли**.
  
- ![](../../img/general-settings/music-files/Рисунок59.png)
+ ![](../../img/general-settings/music-files/side-bar-audio-files-tab.svg)
 
 2.	Перейдіть до **Музичні файли**.
  
- ![](../../img/general-settings/music-files/Рисунок60.png)
+ ![](../../img/general-settings/music-files/side-bar-music-files-tab.svg)
 
 3.	Натисніть на іконку видалення.
  

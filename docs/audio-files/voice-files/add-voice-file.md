@@ -7,13 +7,14 @@ sidebar_position: 1
 Голосові файли — це голосові аудіозаписи, які чує клієнт, звернувшись до Вас.
 	
 ### Як додати голосовий файл?
-1.	Натисніть **Загальні налаштування**.
+
+1.	Натисніть **Аудіо файли**.
  
- ![](../../img/general-settings/voice-files/Рисунок63.png)
+ ![](../../img/general-settings/voice-files/side-bar-audio-files-tab.svg)
 
 2.	Перейдіть до **Голосові файли**.
  
- ![](../../img/general-settings/voice-files/Рисунок64.png)
+ ![](../../img/general-settings/voice-files/side-bar-voice-files-tab.svg)
 
 3.	Натисніть Додати голосовий файл.
  

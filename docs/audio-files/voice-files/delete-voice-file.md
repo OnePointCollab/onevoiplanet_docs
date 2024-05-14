@@ -5,13 +5,14 @@ sidebar_position: 2
 # Видалення голосового файлу
 	
 ### Як видалити голосовий файл?
-1.	Натисніть **Загальні налаштування**.
+
+1.	Натисніть **Аудіо файли**.
  
- ![](../../img/general-settings/voice-files/Рисунок73.png)
+ ![](../../img/general-settings/voice-files/side-bar-audio-files-tab.svg)
  
 2.	Перейдіть до **Голосові файли**.
  
- ![](../../img/general-settings/voice-files/Рисунок74.png)
+ ![](../../img/general-settings/voice-files/side-bar-voice-files-tab.svg)
 
 3.	Натисніть на іконку видалення.
  

@@ -10,7 +10,7 @@ sidebar_position: 4
 
 1. Перейдіть до **Голосове меню (IVR)**.
  
-  ![](../img/call-processing/create-ivr/Рисунок45.png)
+  ![](../img/call-processing/create-ivr/side-bar-ivr-tab.svg)
 
 2. Натисніть кнопку ... і виберіть пункт **Видалити**.
  

@@ -36,7 +36,7 @@ sidebar_position: 1
 
 ![](../../img/employees-groups/i-group-3.svg)
 
-[Детальніше ознайомитися з алгоритмами →](https://onevoiplanet.ua/ua/plans)
+[Детальніше ознайомитися з алгоритмами →](algorithm-group.md)
 
 ### Під час очікування клієнтом відповіді оператора
 

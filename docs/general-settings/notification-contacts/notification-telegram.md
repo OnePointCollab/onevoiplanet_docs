@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Налаштування Telegram нотифікацій
 
+Зверніть **увагу**, що додавати та налаштовувати контакт має можливість лише Власник компанії та Супервайзер
+
 Для Telegram доступні такі нотифікації:
 
 1. Нотифікація про нову відкладену заявку на віджет зворотного дзвінка
@@ -30,7 +32,7 @@ sidebar_position: 2
 
 ![](../../img/general-settings/notification-contacts/add-notification-telegram-contact-dropdown.svg)
 
-5. Перейдіть за посиланням для авторизації у телеграм боті
+5. Перейдіть (Ви або Ваш співробітник) за посиланням для авторизації у телеграм боті
 
 ![](../../img/general-settings/notification-contacts/notification-add-telegram-link.svg)
 
@@ -54,15 +56,19 @@ sidebar_position: 2
 
 ![](../../img/general-settings/notification-contacts/notification-bot-openlink-block.svg)
 
-11. Після переходу за посиланням відкриється особистий кабінет в якому необхідно перейти до **загальних налаштувань**
+11. Після переходу за посиланням відкриється особистий кабінет або сторінка авторизації
+
+[Детальніше про те, як авторизуватись →](../../authorization-and-verification/sign-in.md)
+
+12. Для налаштування нотифікацій перейдіть до **загальних налаштувань**
 
 ![](../../img/general-settings/side-bar-general-settings-button.svg)
 
-12. Оберіть необхідні нотифікації
+13. Оберіть необхідні нотифікації
 
 ![](../../img/general-settings/notification-contacts/notification-contact-telegram-checkboxes-block.svg)
 
-13. Натисніть **Зберегти**
+14. Натисніть **Зберегти**
 
 ![](../../img/general-settings/notification-contacts/save-button.svg)
 

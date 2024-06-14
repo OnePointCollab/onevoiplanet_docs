@@ -8,7 +8,7 @@ sidebar_position: 2
 
 - [Налаштування програми Zoiper на IOS](docs/sip-clients/settings-zoiper.md#налаштування-програми-zoiper-на-ios)
 
-## Налаштування програми Zoiper на Android
+### Налаштування програми Zoiper на Android
 
 Налаштування софтфону Zoiper на оперативну систему Android мобільного телефону.
 
@@ -88,7 +88,7 @@ sidebar_position: 2
 ![](../img/sip-clients/Рисунок22.png)
 
 
-## Налаштування програми Zoiper на IOS
+### Налаштування програми Zoiper на IOS
 Налаштування софтфону Zoiper на оперативну систему IOS мобільного телефону.
 
 У App Store необхідно завантажити додаток, який називається Zoiper Lite voip soft phone без слів Premium. 

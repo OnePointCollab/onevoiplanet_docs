@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Створення SIP Транку
 
-## Як створити SIP домен?
+### Як створити SIP домен?
 1. Перейдіть до **SIP налаштування**
 
 ![](../../img/sip-domains/sidebar-sip-settings-tab.svg)
